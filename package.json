@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "pick-random",
+  "name": "pick-random-raycast-extension",
   "title": "Pick random",
   "description": "Sometimes you need a random character / emojis / number, here is an extension that pick a random something and copy it in the clipboard",
   "icon": "command-icon.png",
@@ -52,5 +52,6 @@
     "fix-lint": "ray lint --fix",
     "lint": "ray lint",
     "publish": "ray publish"
-  }
+  },
+  "version": "1.0.0"
 }
